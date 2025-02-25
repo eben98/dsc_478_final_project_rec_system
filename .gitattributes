@@ -1,0 +1,2 @@
+# Enforce LF line endings for Jupyter Notebook files
+*.ipynb text eol=lf
